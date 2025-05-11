@@ -4,7 +4,7 @@ include "connect.php";
  ?>
  <link rel="stylesheet" type="text/css" href="style.css">
 
-<center><h1>PARADISE ROYALE</h1>
+<center><h1>PARADISE ROYAL</h1>
    <center><img src="img/Resort.jpg" id="himg">
 
 <br><br><br>

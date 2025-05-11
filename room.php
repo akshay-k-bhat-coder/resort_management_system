@@ -15,7 +15,7 @@ include "include/header.php";
             Small independent room, closet, pivate bathroom, hot water, heater, flat TV, cable suscription, 20MB WiFi.
          </p>
 
-         <br><label id="msg">Price: 10000৳ </label><a href="booking.php">Book Now</a>
+         <br><label id="msg">Price: 10000₹</label><a href="booking.php">Book Now</a>
       </div>
    </div>
 
@@ -31,7 +31,7 @@ include "include/header.php";
 
         </p>
 
-         <br><label id="msg">Price: 15000৳ </label><a href="booking.php">Book Now</a>
+         <br><label id="msg">Price: 15000₹ </label><a href="booking.php">Book Now</a>
       </div>
    </div>
 
@@ -48,7 +48,7 @@ include "include/header.php";
            Wake-up call service.
          </p>
 
-         <br><label id="msg">Price: 25000৳ </label><a href="booking.php">Book Now</a>
+         <br><label id="msg">Price: 25000₹ </label><a href="booking.php">Book Now</a>
       </div>
    </div>
 
@@ -64,7 +64,7 @@ include "include/header.php";
 
          </p>
 
-         <br><label id="msg">Price: 35000৳ </label><a href="booking.php">Book Now</a>
+         <br><label id="msg">Price: 35000₹ </label><a href="booking.php">Book Now</a>
       </div>
    </div>
 
@@ -79,7 +79,7 @@ include "include/header.php";
            with views of the pool or ocean. They are fitted with fine wood furnishings, and safety deposit boxes.
          </p>
 
-         <br><label id="msg">Price: 45000৳ </label><a href="booking.php">Book Now</a>
+         <br><label id="msg">Price: 45000₹</label><a href="booking.php">Book Now</a>
       </div>
 
    </div>
